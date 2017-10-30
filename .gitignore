@@ -1,3 +1,10 @@
+# Intellij Webstorm
+.idea/
+*.iml
+
+# project confg locker
+package-lock.json
+
 # Logs
 logs
 *.log
