@@ -1,7 +1,7 @@
 {
   "name": "16-data-structures-set",
   "version": "1.0.0",
-  "description": "ES 6 feature data structures - set",
+  "description": "ES 6 data structures - set",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

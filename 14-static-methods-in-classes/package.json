@@ -1,7 +1,7 @@
 {
   "name": "14-static-methods-in-classes",
   "version": "1.0.0",
-  "description": "ES 6 feature static methods in classes",
+  "description": "ES 6 static methods in classes",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

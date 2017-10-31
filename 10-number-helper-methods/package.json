@@ -1,7 +1,7 @@
 {
   "name": "10-number-helper-methods",
   "version": "1.0.0",
-  "description": "ES 6 feature string helper methods",
+  "description": "ES 6 string helper methods",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

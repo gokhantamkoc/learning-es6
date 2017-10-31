@@ -1,7 +1,7 @@
 {
   "name": "7-arrow-functions",
   "version": "1.0.0",
-  "description": "ES 6 feature arrow functions",
+  "description": "ES 6 arrow functions",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

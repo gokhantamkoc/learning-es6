@@ -1,7 +1,7 @@
 {
   "name": "8-helper-methods",
   "version": "1.0.0",
-  "description": "ES 6 feature helper methods",
+  "description": "ES 6 helper methods",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

@@ -1,7 +1,7 @@
 {
   "name": "5-spread-operator",
   "version": "1.0.0",
-  "description": "ES 6 feature spread operator",
+  "description": "ES 6 spread operator",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

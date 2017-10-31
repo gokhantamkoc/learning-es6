@@ -1,7 +1,7 @@
 {
   "name": "11-modules",
   "version": "1.0.0",
-  "description": "ES 6 feature modules",
+  "description": "ES 6 modules",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

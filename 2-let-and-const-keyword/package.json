@@ -1,7 +1,7 @@
 {
-  "name": "3-block-scoping-experiment",
+  "name": "2-let-and-const-keyword",
   "version": "1.0.0",
-  "description": "ES 6 feature block scoping",
+  "description": "ES 6 let and const keywords",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

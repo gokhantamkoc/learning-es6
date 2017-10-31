@@ -1,7 +1,7 @@
 {
   "name": "17-data-structures-map",
   "version": "1.0.0",
-  "description": "ES 6 feature data structures - map",
+  "description": "ES 6 data structures - map",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
