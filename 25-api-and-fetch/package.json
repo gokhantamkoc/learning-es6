@@ -1,7 +1,7 @@
 {
-  "name": "23-generators-vs-iterators",
+  "name": "24-api-and-fetch",
   "version": "1.0.0",
-  "description": "ES 6 generators vs iterators",
+  "description": "ES 6 API and fetch",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

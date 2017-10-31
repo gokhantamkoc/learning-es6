@@ -1,7 +1,7 @@
 {
-  "name": "23-generators-vs-iterators",
+  "name": "23-controlling-flow-with-generators",
   "version": "1.0.0",
-  "description": "ES 6 generators vs iterators",
+  "description": "ES 6 controlling the flow with generators",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
